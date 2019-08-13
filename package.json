@@ -1,0 +1,15 @@
+{
+    "name": "exps",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node httpServer"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "ejs": "^2.6.2",
+        "express": "^4.17.1"
+    }
+}
